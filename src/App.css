@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?cs=srgb&dl=pexels-pixabay-158827.jpg&fm=jpg);
+    background-size: cover;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.col-lg-3{
+    border-radius: 10%;
+    /* background-color:rgba(36, 45, 61, 0.348); */
+    background-image: linear-gradient(rgba(147, 227, 250, 0.834),rgba(128, 128, 128, 0.741));
+    padding: 8px;
+    margin: 20px;
+    width: 120px;
+    height: 140px;
+}
+
+.col-5{
+    height: 80vh;
+    /* background-color: rgba(107, 186, 198, 0.448);   rgb(123, 151, 204); */
+    padding-top: 30px;
+    background-image: linear-gradient(rgba(36, 152, 170, 0.652),white,rgba(196, 159, 90, 0.477));
+}
+h1{
+    font-family: fantasy;
+    text-shadow: 2px 2px 1px white;
+}
+i{
+    padding-bottom: 20px;
+}
